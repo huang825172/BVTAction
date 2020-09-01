@@ -1,24 +1,19 @@
-# bsv-demo
+# A Bootstrap-Vue Project Template With Github Action
 
-## Project setup
-```
-npm install
-```
+## Build note
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> git clone ...
 
-### Compiles and minifies for production
-```
-npm run build
-```
+> cd **project-name**
 
-### Lints and fixes files
-```
-npm run lint
-```
+> npm install
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+> npm run build
+
+> deploy **./dist** to server
+
+---
+
+## Github Action Workflow
+
+To be finished.

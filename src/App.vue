@@ -2,6 +2,9 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <div style="width:50%; margin-left:25%;">
+      <b-alert show variant="danger">Danger Alert</b-alert>
+    </div>
   </div>
 </template>
 
